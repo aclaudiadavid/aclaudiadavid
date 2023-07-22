@@ -11,7 +11,7 @@
 <!-- Introduction -->
 ### About me:
 
-Currently finishing my master's degree in Computer Science with a specialisation in Data Science. Some of my favourite areas are data visualization, data engineering and database management.
+I recently completed my master's degree in Computer Science with a specialization in Data Science. Fueled by a strong interest in data visualization, data engineering, and database management, I am eager to expand my knowledge and actively seek new opportunities to apply my skills in a professional setting.
 <!--
 **aclaudiadavid/aclaudiadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 ---
 
 ### Currently working on:
-\> **MSc Thesis:** Asynchronous Collaborative Art Creation
+\> **Discord news bot**
 
 &ensp;
 ![Using](https://img.shields.io/badge/using%3A-%237E4798.svg?style=for-the-badge&color=rgba(34,39,46,0))
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
